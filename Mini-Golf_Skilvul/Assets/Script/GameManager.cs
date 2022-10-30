@@ -6,7 +6,6 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     [SerializeField] GameObject gameOverPanel;
-    [SerializeField] GameObject settingsPanel;
     [SerializeField] TMP_Text gameOverText;
     [SerializeField] PlayerController player;
     [SerializeField] Hole hole;
