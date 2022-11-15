@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/LoadingProgress.unity
     guid: 4ac5de69447e4e54a9b22cc652158a89
   - enabled: 1
+    path: Assets/Scenes/ComingSoonScene.unity
+    guid: 6d88bf29d002e5a479b58303a4d3b514
+  - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
@@ -26,4 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level5.unity
     guid: f0b03a386d7f7394493d6d97a57fdbbc
+  - enabled: 1
+    path: Assets/Scenes/3DMazeLevel1.unity
+    guid: 963d161bda3efd7409e02eeb9d48faa9
+  - enabled: 1
+    path: Assets/Scenes/3DMazeLevel2.unity
+    guid: 2447164b5a086194ab242687bb695ce8
+  - enabled: 1
+    path: Assets/Scenes/3DMazeLevel3.unity
+    guid: 1ffaf1d2814a6874091e6a598cf1b3fd
   m_configObjects: {}

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3b3c091a5c3cd7146be2980c4a0d6b54
+guid: f6b60fd905a3e2444826bc6961caf7a7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -129,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_0
+      name: 240_F_413312909_kyuPyjv8pbczVtoVkUuNbO5HLRkdb8IC_0
       rect:
         serializedVersion: 2
-        x: 246
-        y: 161
-        width: 101
-        height: 39
+        x: 254
+        y: 85
+        width: 70
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7be4badc71d518e418c3b9d8acaa436a
-      internalID: -627204221
+      spriteID: 895b4ac58be5a314599b075602ec3428
+      internalID: 1628872753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_1
+      name: 240_F_413312909_kyuPyjv8pbczVtoVkUuNbO5HLRkdb8IC_1
       rect:
         serializedVersion: 2
-        x: 245
-        y: 32
-        width: 101
-        height: 39
+        x: 295
+        y: 201
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c059a3ac4be3ce24089f2f4e4a6dbf96
-      internalID: 1040686668
+      spriteID: 02d1649fc2e1a324499a245e99acf2d4
+      internalID: 865754225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_2
+      name: 240_F_413312909_kyuPyjv8pbczVtoVkUuNbO5HLRkdb8IC_2
       rect:
         serializedVersion: 2
-        x: 244
-        y: 296
-        width: 101
-        height: 39
+        x: 295
+        y: 201
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,113 +185,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d31dc991ee4dadb41b9f5bd0c2e7b5ca
-      internalID: 1579331038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_3
-      rect:
-        serializedVersion: 2
-        x: 244
-        y: 229
-        width: 101
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ae0858f1261d8f48a0487fc3e97c931
-      internalID: -1648440730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_4
-      rect:
-        serializedVersion: 2
-        x: 246
-        y: 95
-        width: 101
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ee64947404bbd74ebff4ed46ba6221a
-      internalID: 1967373472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_5
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 287
-        width: 51
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16058da6cc31368449243567a0b30781
-      internalID: -2031936657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_6
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 288
-        width: 51
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3583754b88ffb314480a3f5886b55229
-      internalID: -8160733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_7
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 24
-        width: 51
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4151c41e66134a469e18f6b7f09607f
-      internalID: 1433203617
+      spriteID: ca296fd8971477f41993e5d7d6121511
+      internalID: -450816323
       vertices: []
       indices: 
       edges: []
@@ -299,7 +194,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 1d1985b4d44661d4dbe70df92e07ce6e
+    spriteID: d77abae6d82755b4aaefc93f6ab26db6
     internalID: 0
     vertices: []
     indices: 
@@ -307,14 +202,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_1: 1040686668
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_4: 1967373472
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_5: -2031936657
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_0: -627204221
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_3: -1648440730
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_7: 1433203617
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_6: -8160733
-      pngtree-wood-style-game-buttons-pack-icon-vector-material-png-image_2922615_2: 1579331038
+      240_F_413312909_kyuPyjv8pbczVtoVkUuNbO5HLRkdb8IC_1: 865754225
+      240_F_413312909_kyuPyjv8pbczVtoVkUuNbO5HLRkdb8IC_2: -450816323
+      240_F_413312909_kyuPyjv8pbczVtoVkUuNbO5HLRkdb8IC_0: 1628872753
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
